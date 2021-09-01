@@ -3,7 +3,7 @@
 - Desafío BIT. 
 - Ingresar numeros y letras en orden, de lo contrario se muestra en pantalla que se ingresen correctamente.
 
-![](https://postimg.cc/VdydMS7m)
+![](https://i.postimg.cc/gkjRC88X/desafio.jpg)
 
 
 
