@@ -1,4 +1,4 @@
-# VIDEOJUEGOS OMEGA 
+# DESAFIO BIT
 
 - Desafío BIT. 
 - Ingresar numeros y letras en orden, de lo contrario se muestra en pantalla que se ingresen correctamente.
